@@ -1,0 +1,5 @@
+commit dbedc51e44beda43256938c8252a059ad1e74937 (HEAD -> logging, origin/master, master)
+Author: unknown <dimitrov.blagoj@students.finki.ukim.mk>
+Date:   Wed Mar 14 18:46:15 2018 +0100
+
+    Initial commit
