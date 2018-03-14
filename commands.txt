@@ -29,7 +29,8 @@ Date:   Wed Mar 14 18:46:15 2018 +0100
     Initial commit
 " - git log izlez
 git push --all origin
-git checkout master
 git merge logging
 git branch allcomands
 notepad commands.txt
+git push --all origin
+git pull --rebase origin master
